@@ -1,6 +1,6 @@
 {
   "name": "requires-port",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Check if a protocol requires a certain port number to be added to an URL.",
   "main": "index.js",
   "scripts": {
