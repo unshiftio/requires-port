@@ -39,9 +39,9 @@
   },
   "homepage": "https://github.com/unshiftio/requires-port",
   "devDependencies": {
-    "assume": "1.3.x",
+    "assume": "1.4.x",
     "istanbul": "0.4.x",
-    "mocha": "2.3.x",
+    "mocha": "2.5.x",
     "pre-commit": "1.1.x"
   }
 }
