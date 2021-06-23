@@ -4,7 +4,7 @@
   "description": "Check if a protocol requires a certain port number to be added to an URL.",
   "main": "index.js",
   "scripts": {
-    "test": "c8 --reporter=html --reporter=text mocha test.js",
+    "test": "c8 --reporter=lcov --reporter=text mocha test.js",
     "watch": "mocha --watch test.js"
   },
   "repository": {
