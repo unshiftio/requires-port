@@ -1,6 +1,6 @@
 # requires-port
 
-[![Version npm](http://img.shields.io/npm/v/requires-port.svg?style=flat-square)](https://www.npmjs.com/package/requires-port)[![Build Status](https://img.shields.io/github/workflow/status/unshiftio/requires-port/CI/master?label=CI&style=flat-square)](https://github.com/unshiftio/requires-port/actions?query=workflow%3ACI+branch%3Amaster)[![Dependencies](https://img.shields.io/david/unshiftio/requires-port.svg?style=flat-square)](https://david-dm.org/unshiftio/requires-port)[![Coverage Status](http://img.shields.io/coveralls/unshiftio/requires-port/master.svg?style=flat-square)](https://coveralls.io/r/unshiftio/requires-port?branch=master)
+[![Version npm](https://img.shields.io/npm/v/requires-port.svg?style=flat-square)](https://www.npmjs.com/package/requires-port)[![Build Status](https://img.shields.io/github/workflow/status/unshiftio/requires-port/CI/master?label=CI&style=flat-square)](https://github.com/unshiftio/requires-port/actions?query=workflow%3ACI+branch%3Amaster)[![Dependencies](https://img.shields.io/david/unshiftio/requires-port.svg?style=flat-square)](https://david-dm.org/unshiftio/requires-port)[![Coverage Status](https://img.shields.io/coveralls/unshiftio/requires-port/master.svg?style=flat-square)](https://coveralls.io/r/unshiftio/requires-port?branch=master)
 
 The module name says it all, check if a protocol requires a given port.
 
