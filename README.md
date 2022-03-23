@@ -10,7 +10,7 @@ This module is intended to be used with browserify or Node.js and is distributed
 in the public npm registry. To install it simply run the following command from
 your CLI:
 
-```j
+```
 npm install --save requires-port
 ```
 
