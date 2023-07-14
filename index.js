@@ -10,7 +10,7 @@
  * @api private
  */
 module.exports = function required(port, protocol) {
-  protocol = protocol.split(':')[0];
+  protocol = protocol?.split(':')[0];
   port = +port;
 
   if (!port) return false;
